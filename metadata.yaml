@@ -1,5 +1,8 @@
 _repo: The-Sense-of-the-Past_63369
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63369-h/images/sense_cover.jpg
 creator:
   author:
     agent_name: James, Henry
@@ -20,6 +23,8 @@ description: '"[T]he second of the two novels which Henry James left unfinished 
   course which the book was to follow were dictated when he reached the point where
   the original draft broke off. These notes are given in full[...]"--Preface (signed:
   Percy Lubbock)'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63369#The-Sense-of-the-Past
 gutenberg_issued: '2020-10-04'
 gutenberg_type: Text
 identifiers:
